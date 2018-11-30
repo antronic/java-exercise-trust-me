@@ -1,4 +1,4 @@
 # java-exercise-trust-me
 
-![](https://giphy.com/gifs/just-his-about-koUtwnvA3TY7C)
+![](https://media.giphy.com/media/koUtwnvA3TY7C/200.gif)
 ### Say very huge THANK to N'Guy
