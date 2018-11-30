@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\guygu\Desktop\exercises\C4-rmvn\src\main\scala\rmvn.scala:6:98: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: breeze.linalg.DenseMatrix[Double][0m
+[0m[[0m[31merror[0m] [0m[0m    def rmvn(n: Int, mean: DenseVector[Double], cov: DenseMatrix[Double]): DenseMatrix[Double] = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

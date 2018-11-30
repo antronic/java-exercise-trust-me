@@ -1,0 +1,3 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\guygu\Desktop\exercises\C4-cfor\src\main\scala\cfor.scala:162:25: could not find implicit value for parameter impl: breeze.stats.distributions.Uniform.Impl3[Int,Int,Double,VR][0m
+[0m[[0m[31merror[0m] [0m[0m        innov <- Uniform(-0,5, 0.5)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m

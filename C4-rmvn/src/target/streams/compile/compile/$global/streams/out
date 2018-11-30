@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/user01/scala-course-2018/root-dir-for-the-course/exercises/C3-meanAndSD/src/c3.scala:7:24: missing parameter type for expanded function ((x$2: <error>, x$3) => x$2.$times(x$3))[0m
+[0m[[0m[31merror[0m] [0m[0m	val upper_pow = x.map(_ * _)[0m
+[0m[[0m[31merror[0m] [0m[0m	                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/user01/scala-course-2018/root-dir-for-the-course/exercises/C3-meanAndSD/src/c3.scala:7:28: missing parameter type for expanded function ((x$2: <error>, x$3: <error>) => x$2.$times(x$3))[0m
+[0m[[0m[31merror[0m] [0m[0m	val upper_pow = x.map(_ * _)[0m
+[0m[[0m[31merror[0m] [0m[0m	                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/user01/scala-course-2018/root-dir-for-the-course/exercises/C3-meanAndSD/src/c3.scala:8:17: recursive value sumUpper needs type[0m
+[0m[[0m[31merror[0m] [0m[0m	val sumUpper = sumUpper.sum[0m
+[0m[[0m[31merror[0m] [0m[0m	               ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

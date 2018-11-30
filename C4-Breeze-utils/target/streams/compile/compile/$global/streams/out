@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\guygu\Desktop\exercises\C4-Breeze-utils\src\main\scala\breeze.scala:24:23: not enough arguments for method map: (f: Array[Double] => B)(implicit bf: scala.collection.generic.CanBuildFrom[Array[Array[Double]],B,That])That.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter f.[0m
+[0m[[0m[31merror[0m] [0m[0m        val b = aa.map()[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\guygu\Desktop\exercises\C4-Breeze-utils\src\main\scala\breeze.scala:25:5: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: breeze.linalg.DenseMatrix[Double][0m
+[0m[[0m[31merror[0m] [0m[0m    }[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
